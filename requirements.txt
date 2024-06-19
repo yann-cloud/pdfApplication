@@ -19,7 +19,6 @@ click==8.1.7
 cloudpathlib==0.18.1
 comm==0.2.2
 confection==0.1.5
-contourpy==1.2.1
 cycler==0.12.1
 cymem==2.0.8
 dataclasses-json==0.6.7
