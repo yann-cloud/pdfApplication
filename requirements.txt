@@ -9,6 +9,6 @@ langchain-community
 python-dotenv
 scikit-learn
 scipy
-matplotlib
+matplotlib==1.8.1
 spacy 
 en_core_web_sm
