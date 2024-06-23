@@ -6,3 +6,4 @@ spacy
 transformers
 torch
 langchain-community
+python-dotenv
