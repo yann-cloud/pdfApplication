@@ -7,4 +7,6 @@ transformers
 torch
 langchain-community
 python-dotenv
-scikit-learn scipy matplotlib
+scikit-learn
+scipy
+matplotlib
